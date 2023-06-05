@@ -18,7 +18,7 @@ from folium import plugins
 
 #33.744765412118596,72.78665559675179
 
-API_KEY = 'AIzaSyArQKlHQYYgGkqTZD_eI5yobM9dqkReJ3Y'
+API_KEY = ''
 google_places = GooglePlaces(API_KEY)
 
 window = tk.Tk()
